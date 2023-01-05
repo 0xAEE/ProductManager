@@ -323,7 +323,7 @@ namespace WindowsFormsAdoNet
             this.MinimumSize = new System.Drawing.Size(467, 489);
             this.Name = "Main";
             this.ShowIcon = false;
-            this.Text = "Product Manager   [ dev: github.com/zwiebelmad ]";
+            this.Text = "Product Manager   [ dev: github.com/8bits-1byte ]";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgw_prodList)).EndInit();
             this.groupBox1.ResumeLayout(false);
