@@ -1,0 +1,9 @@
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.exe.config
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.exe
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.pdb
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.Main.resources
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.Properties.Resources.resources
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\ProductManagerSQL.csproj.GenerateResource.cache
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\ProductManagerSQL.csproj.CoreCompileInputs.cache
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.exe
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.pdb

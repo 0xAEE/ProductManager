@@ -1,0 +1,10 @@
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.exe.config
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.exe
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\bin\Debug\WindowsFormsAdoNet.pdb
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.csproj.AssemblyReference.cache
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.Form1.resources
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.Properties.Resources.resources
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.csproj.GenerateResource.cache
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.csproj.CoreCompileInputs.cache
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.exe
+D:\coderepos\FULLSTACK .NET DEVELOPMENT\repos\SQLexamples\WindowsFormsAdoNet\obj\Debug\WindowsFormsAdoNet.pdb
