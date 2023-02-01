@@ -1,4 +1,4 @@
-﻿// github.com/8bits-1byte
+﻿// github.com/ahmtergin
 // PRODUCT MANAGER Base Project.
 using System;
 using System.Collections.Generic;
