@@ -94,7 +94,7 @@ namespace WindowsFormsAdoNet
             if (e.RowIndex >= 0)
             {
                 DataGridViewRow row = this.dgw_prodList.Rows[e.RowIndex];
-                // get the clicked product_id XD
+                // get the clicked product_id 
                 int selectedProductId = Convert.ToInt32(row.Cells["product_id"].Value);
 
 
