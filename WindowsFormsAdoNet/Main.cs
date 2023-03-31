@@ -1,4 +1,4 @@
-﻿// github.com/ahmtergin
+﻿// github.com/0xAEE
 // PRODUCT MANAGER Base Project.
 using System;
 using System.Collections.Generic;
